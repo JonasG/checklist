@@ -11,5 +11,6 @@ Commands
 Commands contain an operator and a description, separated by a space.
 
 These operators are available:
-\* The description is printed.
-? The description is printed and should be answered with y or n. All following lines that match the answer are printed. Execution will continue on the first character that is not y or n.
+
+* \* The description is printed.
+* ? The description is printed and should be answered with y or n. All following lines that match the answer are printed. Execution will continue on the first character that is not y or n.
